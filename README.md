@@ -1,4 +1,4 @@
-# Personal-Blog
+
 <p>
   <h2 align="center"> Hey there! I'm Samandar. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 </p>
